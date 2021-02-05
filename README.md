@@ -17,7 +17,7 @@ This bot uses pyngrok and discord.py.
       - https://discord.com/oauth2/authorize?client_id={CLIENT_ID}&scope=bot&permissions=68608
       - while replacing {CLIENT_ID} with your client id
       - and then add the bot to your server
-      - Then copy your CLIENT SECRET to token.txt
+      - Then copy your CLIENT SECRET to [token.txt](./token.txt)
   - If you want to run your server on a specific version of minecraft then download and copy the server.jar for that specific version of minecraft and place it in the directory else the program will automatically download the latest version of minecraft as server.jar
   - Atlast run your server.
   
